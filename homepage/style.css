@@ -77,6 +77,21 @@ nav a {
 	line-height: 30px;
 }
 
+.content-area2 {
+	width: 100%;
+	position: relative;
+	top: 120px;
+	/*background: #ebebeb;*/
+	height: 600px;
+}
+.content-area3 {
+	width: 10%;
+	position: relative;
+	top: 12px;
+	/*background: #ebebeb;*/
+	height: 1500px;
+}
+
 
 
 $gallery-width: 100%;
